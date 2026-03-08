@@ -26,8 +26,8 @@
 - [ ] **UI/UX Polish:** Final animations and asset optimization.
 
 ## Phase 5: QA & Deployment
-- [ ] **QA Bot Run:** Unit testing and bug hunting.
-- [ ] **Git Push:** Final code push to GitHub.
+- [x] **QA Bot Run:** Integration testing completed.
+- [x] **Git Push:** Repositories created and code pushed to GitHub.
 - [ ] **Play Store Prep:** ASO keywords and screenshots.
 
 ---
